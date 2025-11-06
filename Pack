@@ -2,9 +2,9 @@
   "theme": "orange",
   "levels": [ 
       {
-      "title": "The Boxel Library",
-      "author": "Charlieee1",
-      "path": "json/The Boxel Library.json"
+      "title": "test(rise up)",
+      "author": "Ember",
+      "path": "pack-levels/rise up.json"
       }
  
   ]
