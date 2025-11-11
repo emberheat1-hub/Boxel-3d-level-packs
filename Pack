@@ -2,14 +2,14 @@
   "theme": "classic",
   "levels": [ 
       {
-      "title": "Up, Down, and Through V2",
+      "title": "Up, Down, and Through V2!",
       "author": "Ember",
       "path": "pack-levels/Up, Down, and Through V2.json"
       },
       {
-      "title": "test(rise up)",
-      "author": "Embe",
-      "path": "pack-levels/rise up.json"
+      "title": "Level 30!",
+      "author": "Ember",
+      "path": "pack-levels/level 30_"
       }
  
   ]
