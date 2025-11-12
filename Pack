@@ -35,6 +35,11 @@
       "title": "Marble Mania!",
       "author": "Ember",
       "path": "pack-levels/Marble Mania!.json"
+      },
+      {
+      "title": "Speed Stacker!",
+      "author": "Ember",
+      "path": "pack-levels/Speed Stacker!.json"
       }
   ]
 }
