@@ -15,6 +15,16 @@
       "title": "Momentous!",
       "author": "Ember",
       "path": "pack-levels/Momentous!.json"
+      },
+      {
+      "title": "One at a time!",
+      "author": "Ember",
+      "path": "pack-levels/One at a time!.json"
+      },
+      {
+      "title": "Two at a time!",
+      "author": "Ember",
+      "path": "pack-levels/Two at a time!.json"
       }
   ]
 }
