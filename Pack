@@ -2,6 +2,11 @@
   "theme": "classic",
   "levels": [ 
       {
+      "title": "Hall of Ember V1!",
+      "author": "Ember",
+      "path": "pack-levels/Hall of Ember V1!.json"
+      },
+      {
       "title": "Up, Down, and Through V2!",
       "author": "Ember",
       "path": "pack-levels/Up, Down, and Through V2.json"
