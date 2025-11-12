@@ -25,6 +25,11 @@
       "title": "Two at a time!",
       "author": "Ember",
       "path": "pack-levels/Two at a time!.json"
+      },
+      {
+      "title": "Inclement Weather!",
+      "author": "Ember",
+      "path": "pack-levels/Inclement Weather!.json"
       }
   ]
 }
