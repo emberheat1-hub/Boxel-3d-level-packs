@@ -30,6 +30,11 @@
       "title": "Inclement Weather!",
       "author": "Ember",
       "path": "pack-levels/Inclement Weather!.json"
+      },
+      {
+      "title": "Marble Mania!",
+      "author": "Ember",
+      "path": "pack-levels/Marble Mania!.json"
       }
   ]
 }
