@@ -55,6 +55,11 @@
       "title": "Trust Fall!",
       "author": "Ember",
       "path": "pack-levels/Trust Fall!.json"
+      },
+      {
+      "title": "Loopy!",
+      "author": "Ember",
+      "path": "pack-levels/Loopy!.json"
       }
   ]
 }
