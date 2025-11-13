@@ -50,6 +50,11 @@
       "title": "Jump to 3000 deco!",
       "author": "Ember",
       "path": "pack-levels/Jump to 3000 deco!.json"
+      },
+      {
+      "title": "Trust Fall!",
+      "author": "Ember",
+      "path": "pack-levels/Trust Fall!.json"
       }
   ]
 }
