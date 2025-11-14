@@ -60,6 +60,11 @@
       "title": "Loopy!",
       "author": "Ember",
       "path": "pack-levels/Loopy!.json"
+      },
+      {
+      "title": "Rise Up!",
+      "author": "Ember",
+      "path": "pack-levels/Rise Up!.json"
       }
   ]
 }
