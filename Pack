@@ -75,6 +75,16 @@
       "title": "Stravick!",
       "author": "Ember",
       "path": "pack-levels/Stravick!.json"
+      },
+      {
+      "title": "theMostannoying level!",
+      "author": "Ember",
+      "path": "pack-levels/theMostannoying level!.json"
+      },
+      {
+      "title": "Blockage!",
+      "author": "Ember",
+      "path": "pack-levels/Blockage!.json"
       }
   ]
 }
