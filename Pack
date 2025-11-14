@@ -65,6 +65,11 @@
       "title": "Rise Up!",
       "author": "Ember",
       "path": "pack-levels/Rise Up!.json"
+      },
+      {
+      "title": "Shortcut City!",
+      "author": "Ember",
+      "path": "pack-levels/Shortcut City!.json"
       }
   ]
 }
