@@ -70,6 +70,11 @@
       "title": "Shortcut City!",
       "author": "Ember",
       "path": "pack-levels/Shortcut City!.json"
+      },
+      {
+      "title": "Stravick!",
+      "author": "Ember",
+      "path": "pack-levels/Stravick!.json"
       }
   ]
 }
