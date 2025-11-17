@@ -95,6 +95,11 @@
       "title": "Goal Kick!",
       "author": "Ember",
       "path": "pack-levels/Goal Kick!.json"
+      },
+      {
+      "title": "Tip the Scale!",
+      "author": "Ember",
+      "path": "pack-levels/Tip the Scale!.json"
       }
   ]
 }
