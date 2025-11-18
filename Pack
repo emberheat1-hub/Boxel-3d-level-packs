@@ -100,6 +100,11 @@
       "title": "Tip the Scale!",
       "author": "Ember",
       "path": "pack-levels/Tip the Scale!.json"
+      },
+      {
+      "title": "Bloopers!",
+      "author": "Ember",
+      "path": "pack-levels/Bloopers!.json"
       }
   ]
 }
