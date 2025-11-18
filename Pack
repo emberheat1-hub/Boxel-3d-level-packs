@@ -105,6 +105,11 @@
       "title": "Bloopers!",
       "author": "Ember",
       "path": "pack-levels/Bloopers!.json"
+      },
+      {
+      "title": "Match-up!",
+      "author": "Ember",
+      "path": "pack-levels/Match-up!.json"
       }
   ]
 }
