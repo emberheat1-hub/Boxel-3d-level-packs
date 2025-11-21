@@ -140,6 +140,11 @@
       "title": "Boost!",
       "author": "Ember",
       "path": "pack-levels/Boost!.json"
+      },
+      {
+      "title": "Sewer!",
+      "author": "Ember",
+      "path": "pack-levels/Sewer!.json"
       }
   ]
 }
