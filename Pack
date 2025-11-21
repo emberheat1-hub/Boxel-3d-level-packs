@@ -120,6 +120,11 @@
       "title": "Limbo!",
       "author": "Ember",
       "path": "pack-levels/Limbo!.json"
+      },
+      {
+      "title": "Jump to 3000 no deco!",
+      "author": "Ember",
+      "path": "pack-levels/Jump to 3000 no deco!.json"
       }
   ]
 }
