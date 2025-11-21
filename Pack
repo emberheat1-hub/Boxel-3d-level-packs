@@ -2,9 +2,9 @@
   "theme": "classic",
   "levels": [ 
       {
-      "title": "Hall of Ember V1!",
+      "title": "Hall of Ember V2!",
       "author": "Ember",
-      "path": "pack-levels/Hall of Ember V1!.json"
+      "path": "pack-levels/Hall of Ember V2!.json"
       },
       {
       "title": "Up, Down, and Through V2!",
@@ -150,6 +150,11 @@
       "title": "Creation Roulette!",
       "author": "Ember",
       "path": "pack-levels/Creation Roulette!.json"
+      },
+      {
+      "title": "Creation Tiles!",
+      "author": "Ember",
+      "path": "pack-levels/Creation Tiles!.json"
       }
   ]
 }
