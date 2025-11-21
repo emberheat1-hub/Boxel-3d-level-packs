@@ -130,6 +130,11 @@
       "title": "Glider!",
       "author": "Ember",
       "path": "pack-levels/Glider!.json"
+      },
+      {
+      "title": "Snake!",
+      "author": "Ember",
+      "path": "pack-levels/Snake!.json"
       }
   ]
 }
