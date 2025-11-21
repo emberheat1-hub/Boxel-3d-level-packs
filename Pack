@@ -125,6 +125,11 @@
       "title": "Jump to 3000 no deco!",
       "author": "Ember",
       "path": "pack-levels/Jump to 3000 no deco!.json"
+      },
+      {
+      "title": "Glider!",
+      "author": "Ember",
+      "path": "pack-levels/Glider!.json"
       }
   ]
 }
