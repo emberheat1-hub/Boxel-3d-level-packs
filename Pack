@@ -135,6 +135,11 @@
       "title": "Snake!",
       "author": "Ember",
       "path": "pack-levels/Snake!.json"
+      },
+      {
+      "title": "Boost!",
+      "author": "Ember",
+      "path": "pack-levels/Boost!.json"
       }
   ]
 }
